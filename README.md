@@ -19,8 +19,8 @@ This repository contains a decoder-only transformer model implemented using PyTo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sdeepthikumar/deep-ai.git
-   cd deep-ai
+   git clone https://github.com/sdeepthikumar/shakespearean-llm.git
+   cd shakespearean-llm
    ```
 
 2. **Install the required packages**:
