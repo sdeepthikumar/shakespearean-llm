@@ -54,4 +54,7 @@ This script will load the model and generate text based on a sample input.
 - `data/`: Directory for input data files.
 - `logs/`: Directory where training logs and model checkpoints are saved.
 
+## Model Size & Parameters:
+Model Size: 135.47M parameters
+Estimated Model Memory Usage: 516.79 MB
 
