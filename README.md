@@ -1,6 +1,6 @@
 # Build an LLM for Shakespeare style text generation
 
-This repository contains a decoder-only transformer model implemented using PyTorch. The project includes scripts for training the model on text data and performing inference to generate text.
+This repository contains a decoder-only transformer model trained from scratch using PyTorch. The project includes scripts for training the model on text data and performing inference to generate text.
 
 ## Features
 
